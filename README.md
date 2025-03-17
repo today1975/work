@@ -1,2 +1,3 @@
 # work
-this my first git rep
+this my first git rep.
+hello world!
